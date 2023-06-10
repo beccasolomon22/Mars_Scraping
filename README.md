@@ -9,8 +9,6 @@
 
 # Project Overview as Described in Assignment:
 
-Practice utilizing 
-
 ## Tools Used
 1. Python
 2. Beautiful Soup
